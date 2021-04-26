@@ -1,0 +1,9 @@
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Tables\bin\Debug\netcoreapp3.1\ApiProductos.Tables.deps.json
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Tables\bin\Debug\netcoreapp3.1\ApiProductos.Tables.dll
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Tables\bin\Debug\netcoreapp3.1\ApiProductos.Tables.pdb
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Tables\obj\Debug\netcoreapp3.1\ApiProductos.Tables.csprojAssemblyReference.cache
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Tables\obj\Debug\netcoreapp3.1\ApiProductos.Tables.AssemblyInfoInputs.cache
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Tables\obj\Debug\netcoreapp3.1\ApiProductos.Tables.AssemblyInfo.cs
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Tables\obj\Debug\netcoreapp3.1\ApiProductos.Tables.csproj.CoreCompileInputs.cache
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Tables\obj\Debug\netcoreapp3.1\ApiProductos.Tables.dll
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Tables\obj\Debug\netcoreapp3.1\ApiProductos.Tables.pdb

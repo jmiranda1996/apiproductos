@@ -1,0 +1,12 @@
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Data\bin\Debug\netcoreapp3.1\ApiProductos.Data.deps.json
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Data\bin\Debug\netcoreapp3.1\ApiProductos.Data.dll
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Data\obj\Debug\netcoreapp3.1\ApiProductos.Data.csprojAssemblyReference.cache
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Data\obj\Debug\netcoreapp3.1\ApiProductos.Data.AssemblyInfoInputs.cache
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Data\obj\Debug\netcoreapp3.1\ApiProductos.Data.AssemblyInfo.cs
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Data\bin\Debug\netcoreapp3.1\ApiProductos.Tables.dll
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Data\bin\Debug\netcoreapp3.1\ApiProductos.Data.pdb
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Data\bin\Debug\netcoreapp3.1\ApiProductos.Tables.pdb
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Data\obj\Debug\netcoreapp3.1\ApiProductos.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Data\obj\Debug\netcoreapp3.1\ApiProductos.Data.csproj.CopyComplete
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Data\obj\Debug\netcoreapp3.1\ApiProductos.Data.dll
+C:\Users\Jerson Miranda\source\repos\ApiProductos\ApiProductos.Data\obj\Debug\netcoreapp3.1\ApiProductos.Data.pdb
