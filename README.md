@@ -11,7 +11,7 @@
 Para inicializar levantar el proyecto primero se debe correr el archivo "script.sql" en MSSQL.
 Luego correr el siguiente comando en la raiz del proyecto.
 
-- dotnet run --project PentaErp.Api/PentaErp.Api.csproj
+- dotnet run --project ApiProductos/ApiProductos.csproj
 
 ## Nota adicional
 
